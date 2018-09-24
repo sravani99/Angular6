@@ -1,0 +1,14 @@
+h2{
+    color: blue;
+    font-size: 20px;
+}
+p{
+    color: rgb(236, 25, 25);
+
+}
+.text-suc{
+   color: green; 
+}
+.text-danger{
+    color:red;
+}

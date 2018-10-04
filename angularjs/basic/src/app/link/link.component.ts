@@ -15,5 +15,9 @@ export class LinkComponent{
     public names='class binding';
     public success='text-suc';
     public danger='text-danger';
-
+    public greeting ="";
+    onclick(){
+    alert(event);
+        this.greeting='welcome sravan';
+    }
 }
